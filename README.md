@@ -1,1 +1,1 @@
-#torchcodec for Nvidia DGX Spark
+#torchcodec PIP wheels for Nvidia DGX Spark
